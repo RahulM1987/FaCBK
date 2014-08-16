@@ -1,0 +1,257 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FBFunAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 426}}";
+			sepNavSelRange = "{193, 0}";
+			sepNavVisRange = "{0, 466}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FBFunAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{202, 1000}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FBFun */ = {
+		activeExec = 0;
+		executables = (
+			35F4007F11ED266500E995E7 /* FBFun */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FBFunViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1102, 611}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{236, 1017}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FBFunViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 2080}}";
+			sepNavSelRange = "{2983, 0}";
+			sepNavVisRange = "{2469, 1217}";
+			sepNavWindowFrame = "{{1615, 43}, {898, 852}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 35F4007F11ED266500E995E7 /* FBFun */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FBFun */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FBFun */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 35F4008F11ED267000E995E7 /* Code sense */;
+		executables = (
+			35F4007F11ED266500E995E7 /* FBFun */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					547,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306177297;
+			PBXWorkspaceStateSaveDate = 306177297;
+		};
+		perUserProjectItems = {
+			35F3D405123FE5CA0038D491 /* PBXTextBookmark */ = 35F3D405123FE5CA0038D491 /* PBXTextBookmark */;
+			35F400A811ED285800E995E7 /* PBXTextBookmark */ = 35F400A811ED285800E995E7 /* PBXTextBookmark */;
+			35F4011311ED318C00E995E7 /* PBXTextBookmark */ = 35F4011311ED318C00E995E7 /* PBXTextBookmark */;
+			35F4014E11ED485600E995E7 /* PlistBookmark */ = 35F4014E11ED485600E995E7 /* PlistBookmark */;
+			35F4016911ED582900E995E7 /* PBXTextBookmark */ = 35F4016911ED582900E995E7 /* PBXTextBookmark */;
+			35F4016A11ED582900E995E7 /* PBXTextBookmark */ = 35F4016A11ED582900E995E7 /* PBXTextBookmark */;
+			35F4016C11ED582900E995E7 /* PBXTextBookmark */ = 35F4016C11ED582900E995E7 /* PBXTextBookmark */;
+			35F401F111ED5E2C00E995E7 /* PBXTextBookmark */ = 35F401F111ED5E2C00E995E7 /* PBXTextBookmark */;
+			35F4020311ED642200E995E7 /* PBXTextBookmark */ = 35F4020311ED642200E995E7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 35F4008E11ED267000E995E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	35F3D405123FE5CA0038D491 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FBFunViewController.m */;
+		name = "FBFunViewController.m: 100";
+		rLen = 0;
+		rLoc = 2983;
+		rType = 0;
+		vrLen = 1217;
+		vrLoc = 2469;
+	};
+	35F4007F11ED266500E995E7 /* FBFun */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FBFun;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	35F4008E11ED267000E995E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	35F4008F11ED267000E995E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	35F400A211ED285300E995E7 /* FBFunLoginDialog.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 494}}";
+			sepNavSelRange = "{141, 865}";
+			sepNavVisRange = "{39, 968}";
+		};
+	};
+	35F400A311ED285300E995E7 /* FBFunLoginDialog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 1248}}";
+			sepNavSelRange = "{2337, 0}";
+			sepNavVisRange = "{2062, 1117}";
+		};
+	};
+	35F400A811ED285800E995E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FBFunAppDelegate.m */;
+		name = "FBFunAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 202;
+	};
+	35F4011311ED318C00E995E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35F4011411ED318C00E995E7 /* UIWebView.h */;
+		name = "UIWebView.h: 61";
+		rLen = 39;
+		rLoc = 2042;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 1094;
+	};
+	35F4011411ED318C00E995E7 /* UIWebView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIWebView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h;
+		sourceTree = "<absolute>";
+	};
+	35F4014E11ED485600E995E7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FBFun-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/rwenderlich/Projects/Blog Posts/Posts/Facebook/FBFun/FBFun-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	35F4016911ED582900E995E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FBFunAppDelegate.h */;
+		name = "FBFunAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	35F4016A11ED582900E995E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35F400A211ED285300E995E7 /* FBFunLoginDialog.h */;
+		name = "FBFunLoginDialog.h: 9";
+		rLen = 865;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 39;
+	};
+	35F4016C11ED582900E995E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35F400A311ED285300E995E7 /* FBFunLoginDialog.m */;
+		name = "FBFunLoginDialog.m: 73";
+		rLen = 0;
+		rLoc = 2337;
+		rType = 0;
+		vrLen = 1117;
+		vrLoc = 2062;
+	};
+	35F401F111ED5E2C00E995E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FBFunViewController.h */;
+		name = "FBFunViewController.h: 19";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 1017;
+		vrLoc = 236;
+	};
+	35F4020311ED642200E995E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FBFunViewController.m */;
+		name = "FBFunViewController.m: 141";
+		rLen = 291;
+		rLoc = 4519;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 2440;
+	};
+	8D1107310486CEB800E47090 /* FBFun-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1638, 22}, {898, 852}}";
+		};
+	};
+}
